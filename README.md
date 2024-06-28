@@ -1,5 +1,3 @@
-<a id="readme-top"></a>
-
 # repo-1
 
 This is my first repositary
